@@ -1,1 +1,2 @@
-# Web-Based-Math-s-Game
+This is a cute little browser-based math quiz that turns multiplication practice into a race against the clock — you hit "Start Game," get tossed a random multiplication problem, and have to tap the correct answer out of four choices before your 60 seconds run out, with satisfying little green "Correct!" and red "Try Again!" pop-ups keeping you on your toes, all wrapped in a playful purple, arcade-style design with glowing buttons and smooth hover effects that make it feel more like a fun little game night than a math worksheet.
+If you'd like, I can help you extend this — things like difficulty levels, a high-score leaderboard, sound effects, or mobile touch improvements. Just let me know what direction interests you!
